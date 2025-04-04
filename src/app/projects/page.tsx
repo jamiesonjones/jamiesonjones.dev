@@ -8,8 +8,8 @@ export default function ProjectsPage() {
           Projects Under Construction
         </h1>
         <p className="text-lg sm:text-xl text-gray-400 max-w-xl text-center">
-          I'm currently building out this section to showcase some cool things
-          I've been working on — from embedded systems and automation
+          I am currently building out this section to showcase some cool things
+          I have been working on — from embedded systems and automation
           experiments to control systems and amateur rocket projects.
         </p>
         <div className="mt-10 text-sm text-gray-500">
